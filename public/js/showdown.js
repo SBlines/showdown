@@ -3,6 +3,7 @@
 //266 best delay
 //http://www.wavsource.com/
 //http://www.soundjay.com/
+//heroku push from site folder
 
 
 
@@ -20,9 +21,9 @@ var player = {ready:'/media/pReady.png', comm:'/media/pComm.png', lose:'/media/p
 var opponents = [
 {ready:'/media/eReady.png', comm:'/media/eComm.png', lose:'/media/eDown.png', delay: 9000},
 {ready:'/media/eReady.png', comm:'/media/eComm.png', lose:'/media/eDown.png', delay: 2200},
-{ready:'/media/eReady.png', comm:'/media/eComm.png', lose:'/media/eDown.png', delay: 1000},
-{ready:'/media/eReady.png', comm:'/media/eComm.png', lose:'/media/eDown.png', delay: 900},
-{ready:'/media/eReady.png', comm:'/media/eComm.png', lose:'/media/eDown.png', delay: 700},
+{ready:'/media/eReady2.png', comm:'/media/eComm2.png', lose:'/media/eDown2.png', delay: 1000},
+{ready:'/media/eReady3.png', comm:'/media/eComm3.png', lose:'/media/eDown3.png', delay: 900},
+{ready:'/media/eReady4.png', comm:'/media/eComm4.png', lose:'/media/eDown4.png', delay: 700},
 {ready:'/media/eReady.png', comm:'/media/eComm.png', lose:'/media/eDown.png', delay: 440},
 {ready:'/media/eReady.png', comm:'/media/eComm.png', lose:'/media/eDown.png', delay: 350},
 {ready:'/media/eReady.png', comm:'/media/eComm.png', lose:'/media/eDown.png', delay: 300},
